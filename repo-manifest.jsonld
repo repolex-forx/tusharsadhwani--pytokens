@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tusharsadhwani/pytokens/commit/e087823ddf4ac81e048a0874fbdf7cdd856579ea",
       "git:hexsha": "e087823ddf4ac81e048a0874fbdf7cdd856579ea",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tusharsadhwani/pytokens/commit/71098b1756960cfac1abd987b94eec1237c92053",
